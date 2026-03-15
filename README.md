@@ -1,1 +1,1 @@
-# resellly-protocol.
+# resellly-protocol
